@@ -17,7 +17,7 @@
 
 <!-- ![Stats](https://github-readme-activity-graph.cyclic.app/graph?username=JeremyTremblay2&theme=rogue) -->
 
-<h2>🚀 About Me <img align="right" alt="Profile Hits" src="https://custom-icon-badges.demolab.com/github/watchers/JeremyTremblay2/JeremyTremblay2?logo=eye&style=social&logoColor=black&color=orange"></h2>
+<h2>🚀 About Me <img align="right" alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/JeremyTremblay2/JeremyTremblay2?logo=eye&style=social&logoColor=black&color=orange"></h2>
 
 * 💻 I am a student in computer science (professional degree) and I am alternating in the field of software engineering.
 * 💼 I am passionate about all the successive phases of an IT project, and I like the idea of building solutions that will have real impacts in today's society.
@@ -27,7 +27,7 @@
 <em> 🚶 If I'm not coding, you can find me hiking or on a piano keyboard. 🎹 </em>
 </p>
 
-## 📊 My Profile Statistics
+## 📊 My Profile Statistics <img align="right" alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeremyTremblay21212%2Fhit-counter&style=for-the-badge">
 
 ### 🧮 Global stats
 
@@ -124,8 +124,8 @@ I mainly work with Microsoft technologies (.NET, C#, MAUI, Azure...), Java, and 
 
 ## 📫 Contact Me
   
-[![Linkedin Badge](https://img.shields.io/badge/-Jérémy%20Tremblay-blue?logo=Linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/jeremy-tremblay/)
-[![Outlook Badge](https://img.shields.io/badge/-jeremy~tremblay@outlook.fr-0078D4?logo=microsoft-outlook&logoColor=white&style=plastic&link=mailto:jeremy-tremblay@outlook.fr)](mailto:jeremy-tremblay@outlook.fr)
-[![Meetup Badge](https://img.shields.io/badge/Meetup-f64363?logo=meetup&logoColor=white&style=plastic)](https://www.meetup.com/fr-FR/members/375986168/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jeremy-tremblay/)
+[![Outlook Badge](https://img.shields.io/badge/-Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge&link=mailto:jeremy-tremblay@outlook.fr)](mailto:jeremy-tremblay@outlook.fr)
+[![Meetup Badge](https://img.shields.io/badge/Meetup-f64363?logo=meetup&logoColor=white&style=for-the-badge)](https://www.meetup.com/fr-FR/members/375986168/)
 
 ![Snake animation](https://github.com/JeremyTremblay2/JeremyTremblay2/blob/output/github-contribution-grid-snake.svg)
