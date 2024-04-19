@@ -128,4 +128,8 @@ I mainly work with Microsoft technologies (.NET, C#, MAUI, Azure...), Java, and 
 [![Outlook Badge](https://img.shields.io/badge/-Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge&link=mailto:jeremy-tremblay@outlook.fr)](mailto:jeremy-tremblay@outlook.fr)
 [![Meetup Badge](https://img.shields.io/badge/Meetup-f64363?logo=meetup&logoColor=white&style=for-the-badge)](https://www.meetup.com/fr-FR/members/375986168/)
 
-![Snake animation](https://github.com/JeremyTremblay2/JeremyTremblay2/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JeremyTremblay2/JeremyTremblay2/blob/output/snake-contribution-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JeremyTremblay2/JeremyTremblay2/blob/output/snake-contribution-grid-light.svg" />
+  <img alt="github-snake" src="https://github.com/JeremyTremblay2/JeremyTremblay2/blob/output/snake-contribution-grid-light.svg" />
+</picture>
